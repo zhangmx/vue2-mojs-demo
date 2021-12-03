@@ -1,5 +1,8 @@
 # tmo
 
+use https://github.com/ronanbrett/mojs-typescript-definitions and https://mojs.github.io/
+
+
 ## Project setup
 ```
 yarn install
